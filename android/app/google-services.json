@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057318211753",
+    "project_id": "nutritsy",
+    "storage_bucket": "nutritsy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057318211753:android:8b9c0b122f92760bcdd9b8",
+        "android_client_info": {
+          "package_name": "com.example.nu_trit_sy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057318211753-t3ptqnib6pc03nfp8u161qdpt6d38r97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZqz4SSaZxIkNNJEbUvy9OysW9WLWBf0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057318211753-t3ptqnib6pc03nfp8u161qdpt6d38r97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
