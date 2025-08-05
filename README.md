@@ -7,3 +7,7 @@ Features include view recipes, search recipes, add/remove recipes from favorite,
 
 - Flutter/Dart for UI
 - Firestore Cloud Firebase as the database
+
+### UI screenshots
+
+- https://drive.google.com/drive/folders/1fabt7zs-GBr_sH9rwhrOagyG9CdZFweC?usp=sharing
