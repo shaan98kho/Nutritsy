@@ -8,6 +8,10 @@ Features include view recipes, search recipes, add/remove recipes from favorite,
 - Flutter/Dart for UI
 - Firestore Cloud Firebase as the database
 
+### Figma Design
+
+- https://drive.google.com/drive/folders/1aTaQm2iwjqxnlzIZLU9p6Dw7dwr3CV8m?usp=sharing
+
 ### UI screenshots
 
-- https://drive.google.com/drive/folders/1fabt7zs-GBr_sH9rwhrOagyG9CdZFweC?usp=sharing
+- https://drive.google.com/drive/folders/1hhPdUqsB9hOJGHbP02OWpffWUM0xm2uR?usp=sharing
